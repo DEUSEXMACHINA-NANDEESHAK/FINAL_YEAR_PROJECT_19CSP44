@@ -138,7 +138,7 @@
                         .addEventListener("dblclick", function () {
                           localStorage.setItem("stock_name", "MSFT");
                           window.open(
-                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "http://127.0.0.1:5501/trader_view/trader_view_index.html",
                             "_blank" // <- This is what makes it open in a new window.
                           );
                         });
@@ -175,7 +175,7 @@
                         .addEventListener("dblclick", function () {
                           localStorage.setItem("stock_name", "AMZN");
                           window.open(
-                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "http://127.0.0.1:5501/trader_view/trader_view_index.html",
                             "_blank" // <- This is what makes it open in a new window.
                           );
                         });
@@ -199,21 +199,23 @@
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                   <button
-                    id="AAPL"
                     class="accordion-button collapsed"
                     type="button"
                     data-bs-toggle="collapse"
                     data-bs-target="#collapseThree"
                     aria-expanded="false"
                     aria-controls="collapseThree"
+                    id="AAPL"
                   >
                     <script>
                       document
                         .getElementById("AAPL")
-                        .addEventListener("click", function () {
+                        .addEventListener("dblclick", function () {
                           localStorage.setItem("stock_name", "AAPL");
-                          window.location.href =
-                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html";
+                          window.open(
+                            "http://127.0.0.1:5501/trader_view/trader_view_index.html",
+                            "_blank" // <- This is what makes it open in a new window.
+                          );
                         });
                     </script>
                     Apple
@@ -248,7 +250,7 @@
                         .addEventListener("dblclick", function () {
                           localStorage.setItem("stock_name", "TSLA");
                           window.open(
-                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "http://127.0.0.1:5501/trader_view/trader_view_index.html",
                             "_blank" // <- This is what makes it open in a new window.
                           );
                         });
@@ -285,7 +287,7 @@
                         .addEventListener("dblclick", function () {
                           localStorage.setItem("stock_name", "GOOGL");
                           window.open(
-                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "http://127.0.0.1:5501/trader_view/trader_view_index.html",
                             "_blank" // <- This is what makes it open in a new window.
                           );
                         });
