@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.BG {
+  background-image: url(banner-bg.jpg);
+}
+
+.form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4c7daf;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+.error {
+  color: red;
+  font-size: 0.8em;
+  margin-top: 5px;
+}
+
+h2 {
+  color: white;
+}

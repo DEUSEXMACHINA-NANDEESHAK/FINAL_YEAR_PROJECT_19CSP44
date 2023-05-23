@@ -1,0 +1,1472 @@
+[
+    {
+        "label": "TimeSeries",
+        "importPath": "alpha_vantage.timeseries",
+        "description": "alpha_vantage.timeseries",
+        "isExtraImport": true,
+        "detail": "alpha_vantage.timeseries",
+        "documentation": {}
+    },
+    {
+        "label": "TimeSeries",
+        "importPath": "alpha_vantage.timeseries",
+        "description": "alpha_vantage.timeseries",
+        "isExtraImport": true,
+        "detail": "alpha_vantage.timeseries",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "pandas_datareader.data",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas_datareader.data",
+        "description": "pandas_datareader.data",
+        "detail": "pandas_datareader.data",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "linear_model",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "preprocessing",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "linear_model",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "preprocessing",
+        "importPath": "sklearn",
+        "description": "sklearn",
+        "isExtraImport": true,
+        "detail": "sklearn",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "ta",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ta",
+        "description": "ta",
+        "detail": "ta",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "BollingerBands",
+        "importPath": "ta.volatility",
+        "description": "ta.volatility",
+        "isExtraImport": true,
+        "detail": "ta.volatility",
+        "documentation": {}
+    },
+    {
+        "label": "BollingerBands",
+        "importPath": "ta.volatility",
+        "description": "ta.volatility",
+        "isExtraImport": true,
+        "detail": "ta.volatility",
+        "documentation": {}
+    },
+    {
+        "label": "MACD",
+        "importPath": "ta.trend",
+        "description": "ta.trend",
+        "isExtraImport": true,
+        "detail": "ta.trend",
+        "documentation": {}
+    },
+    {
+        "label": "IchimokuIndicator",
+        "importPath": "ta.trend",
+        "description": "ta.trend",
+        "isExtraImport": true,
+        "detail": "ta.trend",
+        "documentation": {}
+    },
+    {
+        "label": "MACD",
+        "importPath": "ta.trend",
+        "description": "ta.trend",
+        "isExtraImport": true,
+        "detail": "ta.trend",
+        "documentation": {}
+    },
+    {
+        "label": "IchimokuIndicator",
+        "importPath": "ta.trend",
+        "description": "ta.trend",
+        "isExtraImport": true,
+        "detail": "ta.trend",
+        "documentation": {}
+    },
+    {
+        "label": "RSIIndicator",
+        "importPath": "ta.momentum",
+        "description": "ta.momentum",
+        "isExtraImport": true,
+        "detail": "ta.momentum",
+        "documentation": {}
+    },
+    {
+        "label": "RSIIndicator",
+        "importPath": "ta.momentum",
+        "description": "ta.momentum",
+        "isExtraImport": true,
+        "detail": "ta.momentum",
+        "documentation": {}
+    },
+    {
+        "label": "Conv1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPool1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Bidirectional",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "TimeDistributed",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalAveragePooling2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Conv1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPooling1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Bidirectional",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "TimeDistributed",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPool2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalAveragePooling2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Conv1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPool1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Bidirectional",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "TimeDistributed",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalAveragePooling2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Conv1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPooling1D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Bidirectional",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "TimeDistributed",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPool2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalAveragePooling2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LinearRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "pred",
+        "kind": 2,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "def pred(stock_name):\n  global filename\n  filename = stock_name_dict[stock_name]\n  global stock\n  stock=pd.read_csv(f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol={filename}&outputsize=full&apikey=Y8NJBW57JYKKHU3Y&datatype=csv')\npred('Microsoft')\nindicator_bb = BollingerBands(stock[\"close\"],20, 2)\nmacd = MACD(close=stock[\"close\"])\nrsi = RSIIndicator(close=stock[\"close\"])\nichi = IchimokuIndicator(high=stock[\"high\"],low=stock[\"low\"])",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "getmodel",
+        "kind": 2,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "def getmodel():\n  return \njoblib.dump(model, \"modelLR.pkl\")\nprint(model.summary())\nkey = 'Y8NJBW57JYKKHU3Y'\nts = TimeSeries(key, output_format='pandas')\ndata, meta = ts.get_intraday(filename, interval='60min', outputsize='compact')\ndf=data.drop(['5. volume'],1)\ndf=df.fillna(0)\n#print(df.columns)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "indicator_bb",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "indicator_bb = BollingerBands(stock[\"close\"],20, 2)\nmacd = MACD(close=stock[\"close\"])\nrsi = RSIIndicator(close=stock[\"close\"])\nichi = IchimokuIndicator(high=stock[\"high\"],low=stock[\"low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "macd",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "macd = MACD(close=stock[\"close\"])\nrsi = RSIIndicator(close=stock[\"close\"])\nichi = IchimokuIndicator(high=stock[\"high\"],low=stock[\"low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "rsi",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "rsi = RSIIndicator(close=stock[\"close\"])\nichi = IchimokuIndicator(high=stock[\"high\"],low=stock[\"low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "ichi",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "ichi = IchimokuIndicator(high=stock[\"high\"],low=stock[\"low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['macd']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  ",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['rsi']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbm']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbh']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbl']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_a']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_b']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_base']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_conv']",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,1:4]",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "y_scaler",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "y_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,4]",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,5:]",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,5:] = scaled_values\nLstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)\nprint(stock)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Lstock",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "Lstock = stock.drop(['close','timestamp',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)\nprint(stock)\nwindow_size = 50",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "model = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)\nprint(stock)\nwindow_size = 50\nweek = 7",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "importance",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "importance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)\nprint(stock)\nwindow_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock_final",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "stock_final = stock.drop(['timestamp','adjusted_close','volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base','dividend_amount','split_coefficient'],1)\nprint(stock)\nwindow_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "window_size",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "window_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "week",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "week = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "X = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)\n   # for j in range(week):",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "Y = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)\n   # for j in range(week):\n    X.append(np.array(stock_final.iloc[i:i+window_size,:]).reshape(window_size * 4,1))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X,test_X,train_label,test_label",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X,test_X,train_label,test_label = train_test_split(X, Y, test_size=0.1,shuffle=False)\nlen_t = len(train_X)\n# train_X,valid_X,train_label,valid_label = train_test_split(train_X, train_label, test_size=0.2,shuffle=True)\ntrain_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "len_t",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "len_t = len(train_X)\n# train_X,valid_X,train_label,valid_label = train_test_split(train_X, train_label, test_size=0.2,shuffle=True)\ntrain_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_X",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "test_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_label",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "train_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_label",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "test_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_X",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "test_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Flatten()))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "model = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Flatten()))\nmodel.add(Bidirectional(LSTM(200,return_sequences=True)))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "key = 'Y8NJBW57JYKKHU3Y'\nts = TimeSeries(key, output_format='pandas')\ndata, meta = ts.get_intraday(filename, interval='60min', outputsize='compact')\ndf=data.drop(['5. volume'],1)\ndf=df.fillna(0)\n#print(df.columns)\ndf.columns=stock_final.columns[0:4]\nj=0\n#print(df)\nscaler = preprocessing.MinMaxScaler()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "ts",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "ts = TimeSeries(key, output_format='pandas')\ndata, meta = ts.get_intraday(filename, interval='60min', outputsize='compact')\ndf=data.drop(['5. volume'],1)\ndf=df.fillna(0)\n#print(df.columns)\ndf.columns=stock_final.columns[0:4]\nj=0\n#print(df)\nscaler = preprocessing.MinMaxScaler()\ndf.iloc[:,0:3]=scaler.fit_transform(np.array(df.iloc[:,0:3]))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\ndf.iloc[:,0:3]=scaler.fit_transform(np.array(df.iloc[:,0:3]))\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "y_scaler",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "y_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    X.append(np.array(df.iloc[i:i+window_size,0:4]).reshape(window_size * 4,1))\n    Y.append(np.array(df.iloc[i+window_size,3]).reshape(1,1))",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    X.append(np.array(df.iloc[i:i+window_size,0:4]).reshape(window_size * 4,1))\n    Y.append(np.array(df.iloc[i+window_size,3]).reshape(1,1))\narr=np.array(X)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "Y = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    X.append(np.array(df.iloc[i:i+window_size,0:4]).reshape(window_size * 4,1))\n    Y.append(np.array(df.iloc[i+window_size,3]).reshape(1,1))\narr=np.array(X)\narr_Y=np.array(Y)\narr_Y=y_scaler.inverse_transform(arr_Y[:,0].reshape(-1,1))\narr=arr.reshape(arr.shape[0],4,50,1)\npredicted=model.predict(arr)\npredicted = np.array(predicted[:,0]).reshape(-1,1)",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "predicted",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "predicted = np.array(predicted[:,0]).reshape(-1,1)\npredicted = y_scaler.inverse_transform(predicted)\nprint(predicted)\nprint(arr_Y)\nplt.plot(arr_Y[:,0], color = 'black', label = ' Stock Price')\nplt.plot(predicted[:,0], color = 'green', label = 'Predicted  Stock Price')\nplt.title(' Stock Price Prediction')\nplt.xlabel('Time')\nplt.ylabel(' Stock Price')\nplt.legend()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "predicted",
+        "kind": 5,
+        "importPath": "various_stock_working_fully_final_lstm_cnn",
+        "description": "various_stock_working_fully_final_lstm_cnn",
+        "peekOfCode": "predicted = y_scaler.inverse_transform(predicted)\nprint(predicted)\nprint(arr_Y)\nplt.plot(arr_Y[:,0], color = 'black', label = ' Stock Price')\nplt.plot(predicted[:,0], color = 'green', label = 'Predicted  Stock Price')\nplt.title(' Stock Price Prediction')\nplt.xlabel('Time')\nplt.ylabel(' Stock Price')\nplt.legend()\nplt.show()",
+        "detail": "various_stock_working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "filename",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "filename = 'AAPL'\nstock = pd.read_csv(filename + '.csv')\nindicator_bb = BollingerBands(stock[\"Close\"],20, 2)\nmacd = MACD(close=stock[\"Close\"])\nrsi = RSIIndicator(close=stock[\"Close\"])\nichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock = pd.read_csv(filename + '.csv')\nindicator_bb = BollingerBands(stock[\"Close\"],20, 2)\nmacd = MACD(close=stock[\"Close\"])\nrsi = RSIIndicator(close=stock[\"Close\"])\nichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "indicator_bb",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "indicator_bb = BollingerBands(stock[\"Close\"],20, 2)\nmacd = MACD(close=stock[\"Close\"])\nrsi = RSIIndicator(close=stock[\"Close\"])\nichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "macd",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "macd = MACD(close=stock[\"Close\"])\nrsi = RSIIndicator(close=stock[\"Close\"])\nichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "rsi",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "rsi = RSIIndicator(close=stock[\"Close\"])\nichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "ichi",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "ichi = IchimokuIndicator(high=stock[\"High\"],low=stock[\"Low\"])\nstock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['macd']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['macd'] = macd.macd()\nstock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  ",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['rsi']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['rsi'] = rsi.rsi()\nstock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbm']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbm'] = indicator_bb.bollinger_mavg()\nstock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbh']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbh'] = indicator_bb.bollinger_hband()\nstock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['bb_bbl']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['bb_bbl'] = indicator_bb.bollinger_lband()\nstock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_a']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_a'] = ichi.ichimoku_a()\nstock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_b']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_b'] = ichi.ichimoku_b()\nstock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_base']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_base'] = ichi.ichimoku_base_line()\nstock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock['ichi_conv']",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock['ichi_conv'] = ichi.ichimoku_conversion_line()\nstock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock = stock.fillna(0)  \nprint(stock)\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = scaler.fit_transform(stock.iloc[:,1:4])\nstock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,1:4]",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,1:4] = scaled_values\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "y_scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "y_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = y_scaler.fit_transform(np.array(stock.iloc[:,4]).reshape(-1,1))\nstock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,4]",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,4] = scaled_values\nscaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()\nprint(Lstock)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\nscaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = scaler.fit_transform(stock.iloc[:,5:])\nstock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock.iloc[:,5:]",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock.iloc[:,5:] = scaled_values\nq=web.get_quote_yahoo('WIPRO.NS')\nfor k,v in q.items():\n  print(k,v)\nLstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Lstock",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "Lstock = stock.drop(['Close','Date',],1)\nmodel = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['Date','Adj Close','Volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base'],1)\nprint(stock)\nwindow_size = 50",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "model = LinearRegression()\nprint(Lstock)\nmodel.fit(Lstock.iloc[:,:], stock.iloc[:,4])\nimportance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['Date','Adj Close','Volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base'],1)\nprint(stock)\nwindow_size = 50\nweek = 7",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "importance",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "importance = model.coef_\nfor i,v in enumerate(importance):\n\tprint('Feature: %0d, Score: %.5f' % (i,v))\nstock_final = stock.drop(['Date','Adj Close','Volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base'],1)\nprint(stock)\nwindow_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "stock_final",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "stock_final = stock.drop(['Date','Adj Close','Volume','macd','bb_bbm','bb_bbh','bb_bbl','ichi_a','ichi_conv','rsi','ichi_b','ichi_base'],1)\nprint(stock)\nwindow_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "window_size",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "window_size = 50\nweek = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "week",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "week = 7\nX = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "X = []\nY = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)\n   # for j in range(week):",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "Y = []\nprint(stock_final)\nfor i in range(0 , len(stock) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)\n   # for j in range(week):\n    X.append(np.array(stock_final.iloc[i:i+window_size,:]).reshape(window_size * 4,1))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X,test_X,train_label,test_label",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X,test_X,train_label,test_label = train_test_split(X, Y, test_size=0.1,shuffle=False)\nlen_t = len(train_X)\n# train_X,valid_X,train_label,valid_label = train_test_split(train_X, train_label, test_size=0.2,shuffle=True)\ntrain_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "len_t",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "len_t = len(train_X)\n# train_X,valid_X,train_label,valid_label = train_test_split(train_X, train_label, test_size=0.2,shuffle=True)\ntrain_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X = np.array(train_X)\nprint(train_X.shape)\ntest_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_X",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "test_X = np.array(test_X)\nprint(test_X.shape)\ntrain_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_label",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "train_label = np.array(train_label)\ntest_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_label",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "test_label = np.array(test_label)\n# valid_label = np.array(valid_label)\n# valid_X = np.array(valid_X)\ntrain_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "train_X",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "train_X = train_X.reshape(train_X.shape[0],4,50,1)\nprint(train_X.shape)\ntest_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "test_X",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "test_X = test_X.reshape(test_X.shape[0],4,50,1)\nmodel = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Flatten()))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "model = Sequential()\n#add model layers\nmodel.add(TimeDistributed(Conv1D(128, kernel_size=1, activation='relu', input_shape=(4,50,1))))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(256, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Conv1D(512, kernel_size=1, activation='relu')))\nmodel.add(TimeDistributed(MaxPooling1D(2)))\nmodel.add(TimeDistributed(Flatten()))\nmodel.add(Bidirectional(LSTM(200,return_sequences=True)))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "key",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "key = 'Y8NJBW57JYKKHU3Y'\nts = TimeSeries(key, output_format='pandas')\ndata, meta = ts.get_intraday('AAPL', interval='60min', outputsize='compact')\ndf=data.drop(['5. volume'],1)\n#print(df.columns)\ndf.columns=stock_final.columns[0:4]\nj=0\n#print(df)\nscaler = preprocessing.MinMaxScaler()\ndf.iloc[:,0:3]=scaler.fit_transform(np.array(df.iloc[:,0:3]))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "ts",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "ts = TimeSeries(key, output_format='pandas')\ndata, meta = ts.get_intraday('AAPL', interval='60min', outputsize='compact')\ndf=data.drop(['5. volume'],1)\n#print(df.columns)\ndf.columns=stock_final.columns[0:4]\nj=0\n#print(df)\nscaler = preprocessing.MinMaxScaler()\ndf.iloc[:,0:3]=scaler.fit_transform(np.array(df.iloc[:,0:3]))\ny_scaler = preprocessing.MinMaxScaler()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaler = preprocessing.MinMaxScaler()\ndf.iloc[:,0:3]=scaler.fit_transform(np.array(df.iloc[:,0:3]))\ny_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "y_scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "y_scaler = preprocessing.MinMaxScaler()\nscaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_values",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "scaled_values = y_scaler.fit_transform(np.array(df.iloc[:,3]).reshape(-1,1))\ndf.iloc[:,3]= scaled_values\n#print(df)\nwindow_size=50\nX=[]\nY = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "Y = []\nfor i in range(0 , len(data) - window_size -1 , 1):\n    # first = stock.iloc[i, 4]\n    # temp = []\n    # temp2 = []\n    # for j in range(window_size):\n    #     temp.append((stock_final.iloc[i + j, 4] - first) / first)\n   # for j in range(week):\n    X.append(np.array(df.iloc[i:i+window_size,0:4]).reshape(window_size * 4,1))\n    Y.append(np.array(df.iloc[i+window_size,3]).reshape(1,1))",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "#scaler",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "#scaler = preprocessing.MinMaxScaler()\n#scaled_values = scaler.fit_transform(arr[:,0:4])\n#arr=np.array(X)  \narr_Y=np.array(Y)\narr_Y=y_scaler.inverse_transform(arr_Y[:,0].reshape(-1,1))\narr=arr.reshape(arr.shape[0],4,50,1)\npredicted=model.predict(arr)\npredicted = np.array(predicted[:,0]).reshape(-1,1)\npredicted = y_scaler.inverse_transform(predicted)\nprint(predicted)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "#scaled_values",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "#scaled_values = scaler.fit_transform(arr[:,0:4])\n#arr=np.array(X)  \narr_Y=np.array(Y)\narr_Y=y_scaler.inverse_transform(arr_Y[:,0].reshape(-1,1))\narr=arr.reshape(arr.shape[0],4,50,1)\npredicted=model.predict(arr)\npredicted = np.array(predicted[:,0]).reshape(-1,1)\npredicted = y_scaler.inverse_transform(predicted)\nprint(predicted)\nprint(arr_Y)",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "predicted",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "predicted = np.array(predicted[:,0]).reshape(-1,1)\npredicted = y_scaler.inverse_transform(predicted)\nprint(predicted)\nprint(arr_Y)\nplt.plot(arr_Y[:,0], color = 'black', label = ' Stock Price')\nplt.plot(predicted[:,0], color = 'green', label = 'Predicted  Stock Price')\nplt.title(' Stock Price Prediction')\nplt.xlabel('Time')\nplt.ylabel(' Stock Price')\nplt.legend()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    },
+    {
+        "label": "predicted",
+        "kind": 5,
+        "importPath": "working_fully_final_lstm_cnn",
+        "description": "working_fully_final_lstm_cnn",
+        "peekOfCode": "predicted = y_scaler.inverse_transform(predicted)\nprint(predicted)\nprint(arr_Y)\nplt.plot(arr_Y[:,0], color = 'black', label = ' Stock Price')\nplt.plot(predicted[:,0], color = 'green', label = 'Predicted  Stock Price')\nplt.title(' Stock Price Prediction')\nplt.xlabel('Time')\nplt.ylabel(' Stock Price')\nplt.legend()\nplt.show()",
+        "detail": "working_fully_final_lstm_cnn",
+        "documentation": {}
+    }
+]

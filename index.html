@@ -10,7 +10,6 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
       rel="stylesheet"
     />
-    
 
     <title>Stock Price Prediction</title>
 
@@ -48,7 +47,7 @@
             <nav class="main-nav">
               <!--  Logo Start  -->
               <a href="#top" class="logo">
-                <h1>Stock-X</h1>
+                <h3 style="color: aliceblue">Stock-Pedia</h3>
               </a>
               <!--  Logo End  -->
               <!--  Serach Start  -->
@@ -77,7 +76,7 @@
                   <a href="#accordionExample">Top 5 Stocks</a>
                 </li>
                 <li class="scroll-to-section">
-                  <a href="student.html">Account</a>
+                  <a href="Signin/Signin.html">Logout</a>
                 </li>
               </ul>
               <a class="menu-trigger">
@@ -98,14 +97,12 @@
             <div class="owl-carousel owl-banner">
               <div class="item item-1">
                 <div class="header-text">
-                  <span class="category">Stock-X</span>
+                  <span class="category">Stock-Pedia</span>
                   <h2>Invest wisely</h2>
-                  <p>
-                    We will tell you how to become Rich....
-                  </p>
+                  <p>World casino plays ruthless</p>
                   <div class="buttons">
                     <div class="main-button">
-                      <a href="#">Try Stock-X</a>
+                      <a href="#">Try Stock-Pedia</a>
                     </div>
                     <div class="icon-button">
                       <a href="#"><i class="fa fa-play"></i> Demo</a>
@@ -118,7 +115,6 @@
         </div>
       </div>
     </div>
-
 
     <div class="section about-us">
       <div class="container">
@@ -134,8 +130,20 @@
                     data-bs-target="#collapseOne"
                     aria-expanded="true"
                     aria-controls="collapseOne"
+                    id="MSFT"
                   >
-                    SBI
+                    <script>
+                      document
+                        .getElementById("MSFT")
+                        .addEventListener("dblclick", function () {
+                          localStorage.setItem("stock_name", "MSFT");
+                          window.open(
+                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "_blank" // <- This is what makes it open in a new window.
+                          );
+                        });
+                    </script>
+                    Microsoft
                   </button>
                 </h2>
                 <div
@@ -145,9 +153,8 @@
                   data-bs-parent="#accordionExample"
                 >
                   <div class="accordion-body">
-                    Day Start Price: <br/>
-                    Current Price:<br/>
-                    Whatelse???
+                    Day Start Price: <br />
+                    Current Price:<br />
                   </div>
                 </div>
               </div>
@@ -160,10 +167,23 @@
                     data-bs-target="#collapseTwo"
                     aria-expanded="false"
                     aria-controls="collapseTwo"
+                    id="AMZN"
                   >
-                    Bajaj Finance
+                    <script>
+                      document
+                        .getElementById("AMZN")
+                        .addEventListener("dblclick", function () {
+                          localStorage.setItem("stock_name", "AMZN");
+                          window.open(
+                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "_blank" // <- This is what makes it open in a new window.
+                          );
+                        });
+                    </script>
+                    Amazon
                   </button>
                 </h2>
+
                 <div
                   id="collapseTwo"
                   class="accordion-collapse collapse"
@@ -171,15 +191,15 @@
                   data-bs-parent="#accordionExample"
                 >
                   <div class="accordion-body">
-                    Day Start Price: <br/>
-                    Current Price:<br/>
-                    Whatelse???
+                    Day Start Price: <br />
+                    Current Price:<br />
                   </div>
                 </div>
               </div>
               <div class="accordion-item">
                 <h2 class="accordion-header" id="headingThree">
                   <button
+                    id="AAPL"
                     class="accordion-button collapsed"
                     type="button"
                     data-bs-toggle="collapse"
@@ -187,6 +207,15 @@
                     aria-expanded="false"
                     aria-controls="collapseThree"
                   >
+                    <script>
+                      document
+                        .getElementById("AAPL")
+                        .addEventListener("click", function () {
+                          localStorage.setItem("stock_name", "AAPL");
+                          window.location.href =
+                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html";
+                        });
+                    </script>
                     Apple
                   </button>
                 </h2>
@@ -197,9 +226,8 @@
                   data-bs-parent="#accordionExample"
                 >
                   <div class="accordion-body">
-                    Day Start Price: <br/>
-                    Current Price:<br/>
-                    Whatelse???
+                    Day Start Price: <br />
+                    Current Price:<br />
                   </div>
                 </div>
               </div>
@@ -212,8 +240,20 @@
                     data-bs-target="#collapseFour"
                     aria-expanded="false"
                     aria-controls="collapseFour"
+                    id="TSLA"
                   >
-                    HDFC 
+                    <script>
+                      document
+                        .getElementById("TSLA")
+                        .addEventListener("dblclick", function () {
+                          localStorage.setItem("stock_name", "TSLA");
+                          window.open(
+                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "_blank" // <- This is what makes it open in a new window.
+                          );
+                        });
+                    </script>
+                    Tesla
                   </button>
                 </h2>
                 <div
@@ -223,9 +263,8 @@
                   data-bs-parent="#accordionExample"
                 >
                   <div class="accordion-body">
-                    Day Start Price: <br/>
-                    Current Price:<br/>
-                    Whatelse???
+                    Day Start Price: <br />
+                    Current Price:<br />
                   </div>
                 </div>
               </div>
@@ -238,8 +277,20 @@
                     data-bs-target="#collapseFive"
                     aria-expanded="false"
                     aria-controls="collapseFive"
+                    id="GOOGL"
                   >
-                    TCS
+                    <script>
+                      document
+                        .getElementById("GOOGL")
+                        .addEventListener("dblclick", function () {
+                          localStorage.setItem("stock_name", "GOOGL");
+                          window.open(
+                            "http://127.0.0.1:5500/STOCK-PEDIA/trader_view/trader_view_index.html",
+                            "_blank" // <- This is what makes it open in a new window.
+                          );
+                        });
+                    </script>
+                    Google
                   </button>
                 </h2>
                 <div
@@ -249,9 +300,8 @@
                   data-bs-parent="#accordionExample"
                 >
                   <div class="accordion-body">
-                    Day Start Price: <br/>
-                    Current Price:<br/>
-                    Whatelse???
+                    Day Start Price: <br />
+                    Current Price:<br />
                   </div>
                 </div>
               </div>
@@ -260,13 +310,17 @@
           <div class="col-lg-5 align-self-center">
             <div class="section-heading">
               <h6>About Us</h6>
-              <h2>What make us the only solution for credit exchange?</h2>
-              <p> The system aims to simplify the process of credit transfer by using a 
-                chatbot interface, which would allow students to initiate requests, view available courses, and receive updates on the 
-                status of their requests. The system would also enable the university to effectively manage credit transfers by 
-                automating the process, reducing the likelihood of errors and minimizing administrative overheads. Ultimately, the 
-                objective is to improve the academic experience of the students and enhance the operational efficiency of the 
-                university</p>
+              <h2>
+                What makes us the Deus-Ex-Machina of Wall-Streets around the
+                World
+              </h2>
+              <p>
+                We pioneered the machine learning model approaches to Estimation
+                of stockprices. Now, we are breaking ground with our renewed
+                approach and technology. Quant traders have disrupted the market
+                volumes with algorithmic trading. Hence We issue new novel
+                approaches to control entropy of the finance world
+              </p>
             </div>
           </div>
         </div>
