@@ -1,0 +1,24 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_786a4"></div>
+
+  <script type="text/javascript" src="trader_view_charts.js"></script>
+  <script type="text/javascript">
+    var name = localStorage.getItem(`stock_name`);
+    new TradingView.widget({
+      autosize: true,
+      symbol: `NASDAQ:${name}`,
+      interval: "3",
+      timezone: "Etc/UTC",
+      theme: "dark",
+      style: "1",
+      locale: "en",
+      toolbar_bg: "#f1f3f6",
+      enable_publishing: false,
+      withdateranges: true,
+      allow_symbol_change: true,
+      container_id: "tradingview_786a4",
+    });
+  </script>
+</div>
+<!-- TradingView Widget END -->
